@@ -8,9 +8,9 @@ My analysis was focused on answering key questions such as:
 
 1. How did the death rate vary each day for each country? 
 2. How much of the U.S. population was getting infected by covid everyday?
-3. Countries infected the most
-4. Countries with highest death counts
-5. The number of vaccinated people
+3. Which countries were infected the most with respect to their population?
+4. Which continents had the highest death counts?
+5. How many people were vaccinated?
 
 **About the Dataset**
 
@@ -48,6 +48,35 @@ The query results were sorted by location and date. This was helpful in guaging 
 This was useful in providing insight into the increasing infection rate in the United States population as the year progressed. A change from 8% to 9% infection rate can be seen in December itself.
 
 <img width="399" alt="image" src="https://github.com/user-attachments/assets/8377192a-62c2-4ec8-b09e-8824b1f92dd4" />
+
+<br><br/>
+
+**3. Which countries were infected the most with respect to their population?**
+
+![image](https://github.com/user-attachments/assets/55680dc9-eb14-49db-8da3-e3268d418171)
+
+The countries were ranked from highest to lowest rate of infection with respect to their population and the top 10 most infected countries can be seen below.
+
+<img width="400" src="https://github.com/user-attachments/assets/0eb71b07-cef1-498b-a3bd-fb90e7ece6b4" />
+
+<br><br/>
+**4. Which continents had the highest death counts?**
+
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/9a39f57f-540b-4d06-a081-66675acf54f6" />
+
+**North America** was clearly the continent with highest death count.
+
+<img width="163" alt="image" src="https://github.com/user-attachments/assets/f0d4450f-d933-4324-941a-6679a42af831" />
+
+
+<br><br/>
+**5. How many people were vaccinated?**
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/8b6bbcef-0194-4e9b-97da-42de6ce8e69e" />
+
+It was necessary to analyze how many people were getting vaccinated and how that count was increasing cumulatively. One such example of Asia can be seen with the number of new vaccinations as new_vaccinations and the last column representing the increasing percentage of population being vaccinated.
+
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/817fd8e7-6b3f-40c3-8ada-db4e144fbfc5" />
 
 
 
